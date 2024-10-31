@@ -1,6 +1,6 @@
 # MRI-Deep-Analysis
 
-![home](https://github.com/MainakRepositor/MRI-Deep-Analysis/assets/64016811/cb736790-a848-4851-a647-878a18f04ec6)
+![home](images/home.png)
 
 
 Detecting tumor severity using machine learning (ML) and deep learning (DL) techniques in MRI scans has become an increasingly promising area in medical research. Here’s a high-level overview of the process:
