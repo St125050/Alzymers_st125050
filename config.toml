@@ -1,3 +1,4 @@
-#.streamlit/config.toml
-[client]
-showErrorDetails = false
+[theme]
+backgroundColor="#FFFFFF"
+primaryColor="black"
+font="sans serif"
